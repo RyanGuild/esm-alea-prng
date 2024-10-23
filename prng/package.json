@@ -1,0 +1,21 @@
+{
+  "name": "@esm-alea/prng",
+  "module": "mod.ts",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=21.4.0",
+    "bun": ">=1.1.27",
+    "deno": ">=2.0.2"
+  },
+  "browserList": [
+    "defaults and fully supports es6-module",
+    "maintained node versions"
+  ]
+}

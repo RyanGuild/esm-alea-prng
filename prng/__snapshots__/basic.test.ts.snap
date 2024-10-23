@@ -1,0 +1,3 @@
+// Bun Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the @esm-alea/prng module export a random function that gives stable prng outputs 1`] = `0.5442283214069903`;
